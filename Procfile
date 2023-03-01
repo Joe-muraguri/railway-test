@@ -1,1 +1,1 @@
-web: gunicorn testrail.wsgi
+web: gunicorn 'testrail.wsgi'
